@@ -1,7 +1,7 @@
 # Medical-Treatment
 医学图像处理任务报告
 
-学号:B20210307207  
+学号:B20210307207（黎佳涛）  
 
 Medical Treatment是相关的项目内容：包含数据集和相关python代码  
 
